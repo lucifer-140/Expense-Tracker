@@ -22,22 +22,22 @@ Below are some screenshots of the app:
 ### 🏠 Splash Screen
 <img src="assets/screenshots/screenshot1.png" width="300">
 
-### 📅 Home Page - Monthly Overview
+### 📅 Home Page
 <img src="assets/screenshots/screenshot2.png" width="300">
 
 ### ➕ Add New Expense
 <img src="assets/screenshots/screenshot3.png" width="300">
 
-### 📜 Expense List View
+### 📜 Set Income
 <img src="assets/screenshots/screenshot4.png" width="300">
 
-### 📆 Calendar View
+### 📆 View Expenses - By Month
 <img src="assets/screenshots/screenshot5.png" width="300">
 
-### 📊 Spending Visualization
+### 📊 View Expenses - By Category
 <img src="assets/screenshots/screenshot6.png" width="300">
 
-### ⚙️ Filter & Delete Options
+### ⚙️ Reset Expense for the month
 <img src="assets/screenshots/screenshot7.png" width="300">
 
 
