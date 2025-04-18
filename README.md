@@ -16,7 +16,35 @@
 
 ## Screenshots
 
-> (Add your app screenshots here)
+Below are some screenshots of the app:
+
+### Screenshot 1: Home Screen
+
+![Screenshot 1](assets/screenshots/screenshot1.png)
+
+### Screenshot 2: Add Expense Screen
+
+![Screenshot 2](assets/screenshots/screenshot2.png)
+
+### Screenshot 3: View Expenses in List Format
+
+![Screenshot 3](assets/screenshots/screenshot3.png)
+
+### Screenshot 4: Monthly Overview Screen
+
+![Screenshot 4](assets/screenshots/screenshot4.png)
+
+### Screenshot 5: Expense Details
+
+![Screenshot 5](assets/screenshots/screenshot5.png)
+
+### Screenshot 6: Goal Setting Screen
+
+![Screenshot 6](assets/screenshots/screenshot6.png)
+
+### Screenshot 7: Expense Category Filtering
+
+![Screenshot 7](assets/screenshots/screenshot7.png)
 
 ---
 
@@ -81,12 +109,6 @@ Set a **monthly spending goal** and track your progress throughout the month. Th
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - This project uses the following libraries:
@@ -95,3 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   - [Lottie](https://pub.dev/packages/lottie)
 
 ---
+`
