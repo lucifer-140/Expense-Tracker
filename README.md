@@ -18,33 +18,28 @@
 
 Below are some screenshots of the app:
 
-### Screenshot 1: Home Screen
 
-![Screenshot 1](assets/screenshots/screenshot1.png)
+### 🏠 Splash Screen
+<img src="assets/screenshots/screenshot1.png" width="300">
 
-### Screenshot 2: Add Expense Screen
+### 📅 Home Page - Monthly Overview
+<img src="assets/screenshots/screenshot2.png" width="300">
 
-![Screenshot 2](assets/screenshots/screenshot2.png)
+### ➕ Add New Expense
+<img src="assets/screenshots/screenshot3.png" width="300">
 
-### Screenshot 3: View Expenses in List Format
+### 📜 Expense List View
+<img src="assets/screenshots/screenshot4.png" width="300">
 
-![Screenshot 3](assets/screenshots/screenshot3.png)
+### 📆 Calendar View
+<img src="assets/screenshots/screenshot5.png" width="300">
 
-### Screenshot 4: Monthly Overview Screen
+### 📊 Spending Visualization
+<img src="assets/screenshots/screenshot6.png" width="300">
 
-![Screenshot 4](assets/screenshots/screenshot4.png)
+### ⚙️ Filter & Delete Options
+<img src="assets/screenshots/screenshot7.png" width="300">
 
-### Screenshot 5: Expense Details
-
-![Screenshot 5](assets/screenshots/screenshot5.png)
-
-### Screenshot 6: Goal Setting Screen
-
-![Screenshot 6](assets/screenshots/screenshot6.png)
-
-### Screenshot 7: Expense Category Filtering
-
-![Screenshot 7](assets/screenshots/screenshot7.png)
 
 ---
 
